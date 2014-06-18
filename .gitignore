@@ -1,0 +1,8 @@
+#hidden folders
+.*/
+
+#trash from git itself
+*.BASE
+*.ORIG
+*.LOCAL
+*.REMOTE
